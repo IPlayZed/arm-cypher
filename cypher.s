@@ -1,7 +1,7 @@
 ########################################
-#	CYPHER 							                 #
-#		---- Lankathilaka, Nirmal          #
-#            @Srdyel                   #
+#	CYPHER
+#		---- Lankathilaka, Nirmal
+#            codesink.tumblr.com
 ########################################
 
 	.text
